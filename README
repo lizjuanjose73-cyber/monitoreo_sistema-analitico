@@ -26,8 +26,3 @@ Permite recolectar información del sistema en tiempo real y procesarla para fac
 ---
 
 ## 🚀 Ejecución
-
-### 1. Clonar repositorio
-```bash
-git clone https://github.com/TU-USUARIO/bash-script.git
-cd bash-script
