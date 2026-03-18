@@ -1,0 +1,33 @@
+# 🖥️ Monitor de Sistema Analítico (Bash + Python)
+
+## 📌 Descripción
+Este proyecto es una herramienta de monitoreo de sistema desarrollada combinando Bash y Python.
+
+Permite recolectar información del sistema en tiempo real y procesarla para facilitar su análisis.
+
+---
+
+## ⚙️ Funcionalidades
+
+- 📊 Uso de CPU
+- 🧠 Uso de memoria RAM
+- 📁 Espacio en disco
+- ⚡ Procesos activos (Top 10)
+- 🔄 Interacción mediante terminal
+
+---
+
+## 🧩 Tecnologías utilizadas
+
+- Bash (automatización y captura de datos)
+- Python (análisis y procesamiento)
+- Linux (entorno de ejecución)
+
+---
+
+## 🚀 Ejecución
+
+### 1. Clonar repositorio
+```bash
+git clone https://github.com/TU-USUARIO/bash-script.git
+cd bash-script
